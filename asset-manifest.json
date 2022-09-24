@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/TravelsWebsite/static/css/main.f6a4f0b2.css",
+    "main.js": "/TravelsWebsite/static/js/main.660187ca.js",
+    "static/js/787.38287d15.chunk.js": "/TravelsWebsite/static/js/787.38287d15.chunk.js",
+    "static/media/service2.jpg": "/TravelsWebsite/static/media/service2.06d84701e46ed2d2eb0a.jpg",
+    "static/media/form2.jpg": "/TravelsWebsite/static/media/form2.33d8a0eb7e627e103fc1.jpg",
+    "static/media/wedding.jpg": "/TravelsWebsite/static/media/wedding.8271806855fb4beb57e4.jpg",
+    "static/media/logo.png": "/TravelsWebsite/static/media/logo.516572cfd757a6071ebe.png",
+    "static/media/car-front-fill2.svg": "/TravelsWebsite/static/media/car-front-fill2.48529f51f7e05ebfcd64f09fd02f7778.svg",
+    "static/media/car-front2.svg": "/TravelsWebsite/static/media/car-front2.356f48655d7e09fdaf7de3f1331d27fd.svg",
+    "static/media/person-check-fill2.svg": "/TravelsWebsite/static/media/person-check-fill2.3894a7b539ee63c11ff4230474cd790e.svg",
+    "static/media/person-check2.svg": "/TravelsWebsite/static/media/person-check2.8ec76637932796778a7a6afc33e3226c.svg",
+    "static/media/house2.svg": "/TravelsWebsite/static/media/house2.6c624deed2f7f257493adfc37d205801.svg",
+    "static/media/pass-fill.svg": "/TravelsWebsite/static/media/pass-fill.8fc1cb2c8bdb9c8bf9d1cd1969c741bb.svg",
+    "static/media/house-fill2.svg": "/TravelsWebsite/static/media/house-fill2.19a37109112a39fbfe48ce70010dc35b.svg",
+    "index.html": "/TravelsWebsite/index.html",
+    "static/media/call.svg": "/TravelsWebsite/static/media/call.3a69765ca01f0dd83594f45842d810ed.svg",
+    "static/media/tick.svg": "/TravelsWebsite/static/media/tick.f8fbc5c67f963082d61c46a6c116cec5.svg",
+    "main.f6a4f0b2.css.map": "/TravelsWebsite/static/css/main.f6a4f0b2.css.map",
+    "main.660187ca.js.map": "/TravelsWebsite/static/js/main.660187ca.js.map",
+    "787.38287d15.chunk.js.map": "/TravelsWebsite/static/js/787.38287d15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6a4f0b2.css",
+    "static/js/main.660187ca.js"
+  ]
+}
