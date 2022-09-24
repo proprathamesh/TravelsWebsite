@@ -1,0 +1,30 @@
+.box{
+    height: 500px;
+    overflow: hidden;
+}
+.about{
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    animation-name: zoomin;
+    animation-duration: 30s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes zoomin{
+    0%{
+        background-image: url('./bg1.jpeg');
+    }
+    25%{
+        background-image: url('./bg2.jpg');
+    }
+    50%{
+        background-image: url('./bg3.jpg');
+    }
+    75%{
+        background-image: url('./bg4.jpg');
+    }
+    100%{
+        background-image: url('./bg1.jpeg');
+    }
+}

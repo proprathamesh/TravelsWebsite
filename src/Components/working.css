@@ -1,0 +1,42 @@
+.box{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    background-color: #0082c8d1;
+    margin-top: 40px;
+    height: 400px;
+    color: white;
+}
+
+.steps{
+    display: flex;
+    width: 80%;
+    align-items: center;
+    justify-content: center;
+}
+
+.stepBox{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    text-align: center;
+    height: 180px;
+    width: 210px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+.stepBox img{
+    height: 50px;
+}
+
+.stepBox p{
+    margin: 0px 15px;
+}
+
+.steps hr{
+    width: 15%;
+    border-top: 3px solid rgb(255, 255, 255);
+}
