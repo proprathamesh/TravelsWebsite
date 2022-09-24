@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TravelsWebsite/static/css/main.f6a4f0b2.css",
-    "main.js": "/TravelsWebsite/static/js/main.660187ca.js",
+    "main.js": "/TravelsWebsite/static/js/main.ee160b2a.js",
     "static/js/787.38287d15.chunk.js": "/TravelsWebsite/static/js/787.38287d15.chunk.js",
     "static/media/service2.jpg": "/TravelsWebsite/static/media/service2.06d84701e46ed2d2eb0a.jpg",
     "static/media/form2.jpg": "/TravelsWebsite/static/media/form2.33d8a0eb7e627e103fc1.jpg",
@@ -18,11 +18,11 @@
     "static/media/call.svg": "/TravelsWebsite/static/media/call.3a69765ca01f0dd83594f45842d810ed.svg",
     "static/media/tick.svg": "/TravelsWebsite/static/media/tick.f8fbc5c67f963082d61c46a6c116cec5.svg",
     "main.f6a4f0b2.css.map": "/TravelsWebsite/static/css/main.f6a4f0b2.css.map",
-    "main.660187ca.js.map": "/TravelsWebsite/static/js/main.660187ca.js.map",
+    "main.ee160b2a.js.map": "/TravelsWebsite/static/js/main.ee160b2a.js.map",
     "787.38287d15.chunk.js.map": "/TravelsWebsite/static/js/787.38287d15.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f6a4f0b2.css",
-    "static/js/main.660187ca.js"
+    "static/js/main.ee160b2a.js"
   ]
 }
